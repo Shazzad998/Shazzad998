@@ -3,4 +3,4 @@
 - 🌱 I’m currently working as a junior back-end developer at Rapit IT
 - 📫 How to reach me
       -> www.facebook.com/Shazzad71973
-      -> www.linkedin.com/mdshazzad98
+      -> www.linkedin.com/in/mdshazzad98
